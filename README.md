@@ -1,1 +1,1 @@
-#This is a small project that utilizes ReactJS using the Axios library to fetch the Google YouTube API to display a list of videos and an active video. Hooks are used in replacement of class based components.#
+# This is a small project that utilizes ReactJS using the Axios library to fetch the Google YouTube API to display a list of videos and an active video. Hooks are used in replacement of class based components.
